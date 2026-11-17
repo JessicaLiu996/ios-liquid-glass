@@ -1,5 +1,7 @@
 # iOS Liquid Glass
 
+**Agent Skill · iOS UI Development**
+
 Bring native Liquid Glass to your iOS app.
 
 An Agent Skill for reviewing and upgrading SwiftUI and UIKit interfaces with Apple's native glass materials and interaction behavior. It guides your coding agent through the actual project, compatibility decisions, implementation, and runtime checks.
