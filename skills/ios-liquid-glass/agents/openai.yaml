@@ -1,0 +1,4 @@
+interface:
+  display_name: "iOS Liquid Glass"
+  short_description: "Review and adopt native iOS glass interfaces"
+  default_prompt: "Use $ios-liquid-glass to review the current project and propose the next useful step."
